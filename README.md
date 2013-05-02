@@ -7,6 +7,8 @@ Playing around with different ways of plotting data from a misleading The Econom
 
 *The Economist* is mistaken in its conclusion that, "Moving from rich to richer seems to raise happiness just as much as moving from poor to less poor", and I plotted their data side-by-side in the original log-linear fashion and then in linear-linear fashion to show how misleading it is.
 
+Edited: *The Economist* is mostly citing the conclusion drawn by the [original Brookings Institution research report][brookings].
+
 I used [GraphClick][graphclick] to digitize the data from the original image, exported to a .csv file, and then plotted using [R][rlanguage].
 
 
@@ -14,3 +16,4 @@ I used [GraphClick][graphclick] to digitize the data from the original image, ex
 [chartoftheday]: http://www.economist.com/blogs/graphicdetail/2013/05/daily-chart-0?fsrc=scn/fb/wl/dc/moneybuyhappiness
 [graphclick]: http://www.arizona-software.ch/graphclick/
 [rlanguage]: http://www.r-project.org
+[brookings]: http://www.brookings.edu/~/media/research/files/papers/2013/04/subjective%20well%20being%20income/subjective%20well%20being%20income.pdf
