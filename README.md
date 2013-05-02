@@ -12,5 +12,5 @@ I used [GraphClick][graphclick] to digitize the data from the original image, ex
 
 
 [chartoftheday]: http://www.economist.com/blogs/graphicdetail/2013/05/daily-chart-0?fsrc=scn/fb/wl/dc/moneybuyhappiness
-[graphiclick]: http://www.arizona-software.ch/graphclick/
+[graphclick]: http://www.arizona-software.ch/graphclick/
 [rlanguage]: http://www.r-project.org
