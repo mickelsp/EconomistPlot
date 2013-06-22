@@ -67,3 +67,6 @@ par(new=TRUE)
 plot(incomedata$France.x,incomedata$France.y,xlim=c(xlow,xhigh), ylim=c(ylow,yhigh),type="l",log="",col=linecolors[13],xlab="",ylab="")
 text(10,4.5,'Iran');text(100,7.5,'United States');text(4.5,6.75,'Brazil');text(50,6.25,'Japan');
 title('Linear Scale for Income');
+
+x=1;y=1;
+z=y+x;
